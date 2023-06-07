@@ -1,0 +1,30 @@
+.swiper-testimonial-slide {
+  background-position: center !important;
+  background-size: cover !important;
+  width: 320px !important;
+  height: 400px !important;
+  background: #fff;
+}
+.textimonialBox {
+  position: relative;
+  width: 100%;
+  padding: 40px 30px 40px 30px;
+}
+.textimonialBox .details {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.textimonialBox .details .imgbox {
+  position: relative;
+  width: 60px;
+  height: 60px !important;
+}
+
+@media (min-width: 200px) {
+  .swiper-slide img.inner {
+    width: 60px !important;
+    height: 60px !important;
+  }
+}
