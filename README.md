@@ -1,1 +1,1 @@
-Live Preview {https://lidapearl.netlify.app/}
+Live Preview { https://lidapearl.netlify.app }
